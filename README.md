@@ -93,7 +93,13 @@
 </div>
 </table>                                                                                 
 
+### Get the IP of your device:
+https://github.com/Joejsanz/IP
 
+---
+
+> [!NOTE]
+> I will be uploading the missing extensions that I have already published on AI2 and those that I have not published.
 
 ---
 
