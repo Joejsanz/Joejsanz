@@ -98,6 +98,13 @@ https://github.com/Joejsanz/IP
 
 ---
 
+<div align="center"><big>Working on these extensions not yet available:</big>
+
+https://github.com/Joejsanz/LedMatrix/
+</div>
+
+---
+
 > [!NOTE]
 > I will be uploading the missing extensions that I have already published on AI2 and those that I have not published.
 
